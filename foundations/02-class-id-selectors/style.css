@@ -1,0 +1,18 @@
+.odd {
+  background-color: #FF99CC;
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.text-enlarge {
+  font-size: 24px;
+}
+
+#number2 {
+  color: blue;
+  font-size: 36px;
+}
+
+#bolded {
+  font-weight: bold;
+  background-color: lightgreen;
+}
